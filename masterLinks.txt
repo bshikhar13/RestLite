@@ -3,3 +3,7 @@ http://www.iiti.ac.in
 http://www.gmail.com
 http://www.geeksforgeeks.org/
 http://www.github.com
+https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
+http://web.whatsapp.com
+http://www.facebook.com
+http://plus.google.com
